@@ -223,7 +223,7 @@ public class frmUtama extends javax.swing.JFrame {
                 }
             }
         };
-        // Timer
+        // Timer   
         new Timer(1000, taskPerformer).start();
     }
 }
